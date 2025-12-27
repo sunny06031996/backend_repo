@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: reactdb1
+  pool: 5
+  username: sunny
+  password: password
