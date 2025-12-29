@@ -5,3 +5,6 @@ development:
   pool: 5
   username: sunny
   password: password
+
+production:
+  url: postgresql://postgres:iLLSxMDPXDaayDQxLjLLBQppdrIyhttm@postgres.railway.internal:5432/railway
